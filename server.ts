@@ -40,4 +40,4 @@ wss.on("connection", (ws: Client) => {
     });
 });
 
-console.log("WebSocket server running on ws://localhost:8080");
+console.log("WebSocket server running on port 8080");
